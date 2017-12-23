@@ -14,3 +14,7 @@ Reading an XML document with a web browser is quite draggy. RSSFit gives a bette
 * RSS 2.0 validated Smarty template
 * Multi-byte languages compatible
 
+**System Requirements**
+
+* XOOPS 2.5.9+
+* PHP 5.5+
