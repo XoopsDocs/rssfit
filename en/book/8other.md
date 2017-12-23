@@ -131,3 +131,12 @@ We don't have enough time to do it.
 **7. Is it possible to create iTunes podcast feeds using RSSFit? If so, how?**
 Yes it is. However, publishing a tutorial for doing so is currently not in our schedule.
 
+### Externals
+**[RSS 2.0 Specification](http://blogs.law.harvard.edu/tech/rss)**
+Introduction to the RSS technology and a list of RSS elements with descriptions and examples.
+
+**[XML Transformations with CSS and DOM](http://archive.oreilly.com/pub/a/mozilla/synd/2002/10/15/xml_transformations.html)**
+Explains how to make modern browsers render your XML documents with a better look by adopting CSS and DOM.
+
+**[FEED Validator](http://feedvalidator.org)**
+Validates your RSS and Atom feeds.
