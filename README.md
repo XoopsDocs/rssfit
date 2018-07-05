@@ -1,55 +1,59 @@
-### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+# Introduction
 
-# Module RSSFit
+![logoXoops.jpg](.gitbook/assets/logoxoops%20%281%29.jpg)
+
+## Module RSSFit
+
 #### for XOOPS 2.5.9
 
 Module Version 1.31
 
-Tutorial Version 1.00      
-	  
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+Tutorial Version 1.00
 
-## View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/) 
+![logoModule.png](.gitbook/assets/logomodule.png)
 
-© 2017 XOOPS Project ([www.xoops.org](http://xoops.org))  
+### User Manual
 
-## Module Purpose 
+### View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/)
 
-RSSFit is a module for XOOPS generates RSS 2.0 validated XML feed. 
-Web masters can decide what to be display in the XML output by activating installed plug-ins
+© 2017 XOOPS Project \([www.xoops.org](http://xoops.org)\)
 
-![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the RSSFit Module (Admin side)*
+### Module Purpose
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+RSSFit is a module for XOOPS generates RSS 2.0 validated XML feed. Web masters can decide what to be display in the XML output by activating installed plug-ins
 
-**You can fork the module --> [here](https://github.com/XoopsModules25x/rssfit))** 
+ _Figure 1: Main view of the RSSFit Module \(Admin side\)_
 
-## How to Contribute
+![image001.png](.gitbook/assets/image001.png)
+
+### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+
+**You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/rssfit)**\)**
+
+### How to Contribute
 
 [You can contribute on GitHub](https://github.com/XoopsDocs/rssfit-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/rssfit-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/rssfit-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
-# Table of Content
+## Table of Content
 
-* [Introduction](en/book/0introduction.md)
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Introduction](introduction.md)
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu.md)
+* [Preferences](preferences.md)
+* [Operating Instructions](operating-instructions.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Miscellaneous](other.md) 
+* [Module Credits](module-credits.md)
+* [About XOOPS CMS](about-xoops-cms.md)
 
-##License:
+### License:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+
