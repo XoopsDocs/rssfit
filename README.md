@@ -14,9 +14,9 @@ Tutorial Version 1.00
 
 ### User Manual
 
-### View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/)
+### View it on: [![Gitbook](https://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/XXX-tutorial/)
 
-© 2017 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2017 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -26,7 +26,7 @@ RSSFit is a module for XOOPS generates RSS 2.0 validated XML feed. Web masters c
 
 ![image001.png](.gitbook/assets/image001.png)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/rssfit)**\)**
 
@@ -55,5 +55,5 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
